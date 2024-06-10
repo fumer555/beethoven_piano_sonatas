@@ -25502,7 +25502,8 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <offset x="1.52414" y="1.31166"/>
+            <minDistance>-999</minDistance>
+            <offset x="0.624197" y="1.52306"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -44391,7 +44392,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
