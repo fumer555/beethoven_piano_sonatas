@@ -22955,12 +22955,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="3.24693"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -30000,12 +30000,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="3.15392"/>
                 <off2 x="3.05701" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -31495,12 +31495,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4.19615"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -31516,17 +31516,17 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>2</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-3.26355"/>
                 <off2 x="0.965165" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>2</subtype>
                 <offset x="0" y="-3.87326"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -33062,12 +33062,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-2.38185"/>
                 <off2 x="-33.7259" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-1"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -33675,12 +33675,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-5.74667"/>
                 <off2 x="-0.083881" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -40272,7 +40272,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -41690,10 +41690,6 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -41733,6 +41729,10 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC</name>
+            </Harmony>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
@@ -44149,7 +44149,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|HC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -44559,7 +44559,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -46619,6 +46619,10 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -46719,7 +46723,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Tuplet>
             <offset x="-0.210229" y="0.77165"/>
@@ -47106,7 +47110,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -53491,12 +53495,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.809"/>
                 <off2 x="3.96999" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -54698,6 +54702,10 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64|HC</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
@@ -54726,10 +54734,6 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -54758,7 +54762,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>53</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -54819,7 +54823,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -54877,7 +54881,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>53</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -54910,10 +54914,6 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -56093,7 +56093,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             </KeySig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -56633,7 +56633,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -57919,7 +57919,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -59622,6 +59622,10 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
       <Measure>
         <vspacerDown>13.175</vspacerDown>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC</name>
+            </Harmony>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
@@ -59630,12 +59634,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <lineVisible>0</lineVisible>
               <placement>above</placement>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-0.961755"/>
                 <off2 x="0.0740962" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -59765,10 +59769,6 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I7</name>
-            </Harmony>
           <Rest>
             <offset x="0" y="1"/>
             <durationType>eighth</durationType>
@@ -61722,12 +61722,12 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.04741"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -62460,7 +62460,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -64547,7 +64547,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -64642,7 +64642,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Tuplet>
             <offset x="0" y="0.346677"/>
@@ -65039,7 +65039,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC</name>
             </Harmony>
           <Beam>
             <Fragment>
@@ -67897,7 +67897,7 @@ Note: Certain fingerings of Beethoven are provided, based on Schenker edition.</
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
